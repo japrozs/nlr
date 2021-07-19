@@ -3,7 +3,7 @@
 <a href="https://www.producthunt.com/posts/nlr-node-module-resolver?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-nlr-node-module-resolver" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=298323&theme=dark" alt="nlr (Node Module Resolver) - A CLI to prevent you from downloading packages again & again | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 <p align="left">
-![Nlr Logo](https://github.com/japrozs/nlr/blob/main/assets/nlr.png)
+![Nlr Logo](https://raw.githubusercontent.com/japrozs/nlr/master/assets/nlr.png)
 </p>
 Nlr (`Node module resolver`) is a command line utility that stores `npm` modules in a safe place and prevetn your from installing the same module for different projects again and again.
 

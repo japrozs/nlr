@@ -1,8 +1,12 @@
 {
     "name": "nlr",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "A module to globally install libraries to prevent installing the same libraries again and again",
     "main": "dist/src/index.js",
+    "preferGlobal": true,
+    "bin": {
+        "nlr": "dist/src/index.js"
+    },
     "scripts": {
         "test": "jest --watchAll",
         "watch": "tsc -w",
